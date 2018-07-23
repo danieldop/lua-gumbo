@@ -1,5 +1,5 @@
 package = "gumbo"
-version = "%VERSION%.%VSUFFIX%-1"
+version = "%VERSION%.%VSUFFIX%"
 supported_platforms = {"unix", "windows", "!cygwin"}
 
 description = {
